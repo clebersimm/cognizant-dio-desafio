@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+       ddl-auto: create
+  h2:
+    console:
+       enabled: true
+       path: /h2-console
+       settings:
+          trace: false
+          web-allow-others: false
