@@ -13,5 +13,4 @@ public class ProjetotesteApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ProjetotesteApplication.class, args);
 	}
-
 }
